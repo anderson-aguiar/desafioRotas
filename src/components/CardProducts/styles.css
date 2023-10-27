@@ -1,0 +1,9 @@
+.nav-products-container{
+    display: flex;
+    align-items: center;
+    height: 60px;
+    background-color: var(--color-bg-tertiary);
+}
+.nav-product-item{
+    margin-left: 20px;
+}

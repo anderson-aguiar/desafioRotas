@@ -1,0 +1,19 @@
+header{
+    background-color: var(--color-bg-secondary);
+    height: 70px;
+    display: flex;
+    align-items: center;
+}
+.nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-menu-item{
+    margin-right: 20px;
+    color: var(--color-font-primary);
+    font-size: 16px;
+}
+.nav-menu-item:hover{
+   color: var(--color-font-primary);
+}
